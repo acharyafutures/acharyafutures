@@ -1,9 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="100"/>
 </div>
-  ### Hi there 👋
-
-
+ <div align="center">Hi there 👋</div>
+ 
  Want to know more about me? Let's connect on:
 
 <div id="badges">
@@ -16,6 +15,8 @@
   <img src="https://komarev.com/ghpvc/?username=acharyafutures&style=flat-square&color=blue" alt=""/>
  </div>
  
- ### Thank you for visiting!
+ 
+ <div align="center">Thank you for visiting!</div>
+ 
 
 
