@@ -5,13 +5,15 @@
  
  Want to know more about me? Let's connect on:
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/acharyafutures/">
     Linked In
   </a>
+  ||
   <a href="http://nimeshacharya.com.np/">
     Website
   </a>
+  ||
   <img src="https://komarev.com/ghpvc/?username=acharyafutures&style=flat-square&color=blue" alt=""/>
  </div>
  
