@@ -4,7 +4,7 @@
     <div class="container">
         <h1 align="center">Hi there 👋</h1>
     </div>    
-
+<div align="center">
   <img src="https://github.com/acharyafutures/acharyafutures/blob/main/Html.png"  width="200">
   <img src="https://github.com/acharyafutures/acharyafutures/blob/main/css.png"   width="200">
   <img src="https://github.com/acharyafutures/acharyafutures/blob/main/js.png"   width="200">
@@ -22,6 +22,7 @@
   <img src="https://github.com/acharyafutures/acharyafutures/blob/main/ps.png"   width="200">
   <img src="https://github.com/acharyafutures/acharyafutures/blob/main/figma.png"   width="200">
   <img src="https://github.com/acharyafutures/acharyafutures/blob/main/ill.png"   width="200">
+</div>  
   </div>
   <div align="center"> Want to know more about me? Let's connect on:</div>
   <div id="badges" align="center">
