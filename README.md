@@ -27,8 +27,8 @@
   </div>
   <br>
   <br>
-  <div align="center"> I am always open to learn new stuffs, <b>want to suggest some of them?</b> <br>Or, <br> 
-      <b>want to know more about me</b><br> Click the link below &#8595;</div>
+  <div align="center"> I am always open to learn new stuffs, <b><u>want to suggest some of them?</u></b> <br>Or, <br> 
+      <b><u>want to know more about me?</u></b><br> Click these links &#8595;</div>
   <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/acharyafutures/" target="_blank">
       Linked In
