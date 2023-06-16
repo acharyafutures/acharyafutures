@@ -2,9 +2,10 @@
       <img src="https://github.com/acharyafutures/acharyafutures/blob/main/aaaaaa.jpeg">
 </div>
     <div class="container">
-        <h1 align="center">Hi there, I am Nimesh(@acharyafutures)👋</h1><br>
+        <h3 align="center">Hi there, I am Nimesh Acharya(@acharyafutures)👋</h3><br>
     </div>    
-    <h4>Nice to meet you</h4>
+    <h4>Nice to see you here</h4>
+    <div align="center">These are the stuffs that I get mostly busy on</div>
 <div align="center">
   <img src="https://github.com/acharyafutures/acharyafutures/blob/main/Html.png"  width="150" height="150">&nbsp;
   <img src="https://github.com/acharyafutures/acharyafutures/blob/main/css.webp"   width="150" height="150">&nbsp;
@@ -25,7 +26,7 @@
   <img src="https://github.com/acharyafutures/acharyafutures/blob/main/ill.png"   width="150" height="150">&nbsp;
 </div>  
   </div>
-  <div align="center"> Want to know more about me? Let's connect on:</div>
+  <div align="center"> I am always eager to learn these as well as new stuffs, please suggest me Or, <br> Want to know more about me? Let's connect on:</div>
   <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/acharyafutures/" target="_blank">
       Linked In
