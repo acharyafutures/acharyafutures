@@ -27,8 +27,9 @@
   </div>
   <br>
   <br>
-  <div align="center"> I am always open to learn new stuffs, <b><u>want to suggest some of them?</u></b> <br>Or, <br> 
-      <b><u>want to know more about me?</u></b><br> Click these links &#8595;</div>
+  <div align="center"> I am always open to learn new stuffs, <b><ins>want to suggest some of them?</ins></b> <br>Or, <br> 
+      <b><ins>want to know more about me?</ins></b><br> Click these links &#8595;</div>
+      <br>
   <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/acharyafutures/" target="_blank">
       Linked In
@@ -40,7 +41,8 @@
     ||
     <img src="https://komarev.com/ghpvc/?username=acharyafutures&style=flat-square&color=blue" alt=""/>
   </div>
- <div align="center">Thank you for visiting!</div>
+  <br>
+ <h2 align="center">Thank you for visiting!</h2>
 
  
  
