@@ -1,8 +1,3 @@
-<foreignobject>
-      .container{
-            color:red
-      }
-</foreignobject>
 <div id="header" align="center">
       <img src="https://github.com/acharyafutures/acharyafutures/blob/main/aaaaaa.jpeg">
 </div>
@@ -10,23 +5,23 @@
         <h1 align="center">Hi there 👋</h1>
     </div>    
 
-  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/Html.png" height="200">
-  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/css.png"  height="200">
-  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/js.png"  height="200">
-  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/ts.png"  height="200">
-  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/react.png"  height="200">
-  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/angular.png"  height="200">
-  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/vue.png"  height="200">
-  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/python.png"  height="200">
-  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/djfl.jpeg"  height="200">
-  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/c.png"  height="200">
-  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/c++.png"  height="200">
-  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/mysql.png"  height="200">
-  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/php.png"  height="200">
-  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/flutter.png"  height="200">
-  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/ps.png"  height="200">
-  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/figma.png"  height="200">
-  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/ill.png"  height="200">
+  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/Html.png"  width="200">
+  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/css.png"   width="200">
+  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/js.png"   width="200">
+  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/ts.png"   width="200">
+  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/react.png"   width="200">
+  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/angular.png"   width="200">
+  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/vue.png"   width="200">
+  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/python.png"   width="200">
+  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/djfl.jpeg"   width="200">
+  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/c.png"   width="200">
+  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/c++.png"   width="200">
+  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/mysql.png"   width="200">
+  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/php.png"   width="200">
+  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/flutter.png"   width="200">
+  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/ps.png"   width="200">
+  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/figma.png"   width="200">
+  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/ill.png"   width="200">
   </div>
   <div align="center"> Want to know more about me? Let's connect on:</div>
   <div id="badges" align="center">
