@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="100"/>
 </div>
- <div align="center">Hi there 👋</div>
+ <h1 align="center">Hi there 👋</h1>
  
 <div align="center"> Want to know more about me? Let's connect on:</div>
 
