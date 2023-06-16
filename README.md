@@ -1,4 +1,3 @@
-
 <svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
@@ -58,11 +57,10 @@
           }
         }
       </style>
-    <img src="https://github.com/acharyafutures/acharyafutures/blob/main/aaaaaa.jpeg">
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="80"/>
+      <img src="https://github.com/acharyafutures/acharyafutures/blob/main/aaaaaa.jpeg">
 </div>
-      <div class="container">
+    <div class="container">
         <h1 align="center">Hi there 👋</h1>
 
   <div>
