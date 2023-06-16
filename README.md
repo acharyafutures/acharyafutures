@@ -7,7 +7,7 @@
     <div align="center">Nice to meet you</div>
 <div align="center">
   <img src="https://github.com/acharyafutures/acharyafutures/blob/main/Html.png"  width="150" height="150">
-  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/css.png"   width="150" height="150">
+  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/css.webp"   width="150" height="150">
   <img src="https://github.com/acharyafutures/acharyafutures/blob/main/js.png"   width="150" height="150">
   <img src="https://github.com/acharyafutures/acharyafutures/blob/main/ts.png"   width="150" height="150">
   <img src="https://github.com/acharyafutures/acharyafutures/blob/main/react.png"   width="150" height="150">
