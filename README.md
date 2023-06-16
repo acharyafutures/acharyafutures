@@ -7,11 +7,11 @@
 <div align="center"> Want to know more about me? Let's connect on:</div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/acharyafutures/">
+  <a href="https://www.linkedin.com/in/acharyafutures/" target="_blank">
     Linked In
   </a>
   ||
-  <a href="http://nimeshacharya.com.np/">
+  <a href="http://nimeshacharya.com.np/" target="_blank">
     Website
   </a>
   ||
