@@ -10,7 +10,6 @@
   <a href="https://www.linkedin.com/in/acharyafutures/" target="_blank">
     Linked In
   </a>
-  [LinkedIn](https://www.linkedin.com/in/acharyafutures/){:target="_blank"}
   ||
   <a href="http://nimeshacharya.com.np/" target="_blank">
     Website
