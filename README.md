@@ -19,7 +19,7 @@
   <img src="https://github.com/acharyafutures/acharyafutures/blob/main/c++.png"   width="150" height="150">
   <img src="https://github.com/acharyafutures/acharyafutures/blob/main/mysql.png"   width="150" height="150">
   <img src="https://github.com/acharyafutures/acharyafutures/blob/main/php.png"   width="150" height="150">
-  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/flutter.png"   width="150" height="150">
+  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/flutter.jpeg"   width="150" height="150">
   <img src="https://github.com/acharyafutures/acharyafutures/blob/main/ps.png"   width="150" height="150">
   <img src="https://github.com/acharyafutures/acharyafutures/blob/main/figma.png"   width="150" height="150">
   <img src="https://github.com/acharyafutures/acharyafutures/blob/main/ill.png"   width="150" height="150">
