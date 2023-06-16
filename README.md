@@ -5,10 +5,9 @@
  <h1 align="center">Hi there 👋</h1>
 
  <h3 align="center">
-   About Me
- </h3>
+   I somehow tried to learn these </h3>
  <div align="center">
-   Name: Nimesh Acharya
+   
   </div>
  
 <div align="center"> Want to know more about me? Let's connect on:</div>
