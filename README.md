@@ -4,10 +4,24 @@
 </div>
  <h1 align="center">Hi there 👋</h1>
 
- <h3 align="center">
-   I somehow tried to learn these </h3>
- <div align="center">
-   
+ <div>
+<img src="https://github.com/acharyafutures/acharyafutures/blob/main/Html.png">
+<img src="https://github.com/acharyafutures/acharyafutures/blob/main/css.png">
+<img src="https://github.com/acharyafutures/acharyafutures/blob/main/js.png">
+<img src="https://github.com/acharyafutures/acharyafutures/blob/main/ts.png">
+<img src="https://github.com/acharyafutures/acharyafutures/blob/main/react.png">
+<img src="https://github.com/acharyafutures/acharyafutures/blob/main/angular.png">
+<img src="https://github.com/acharyafutures/acharyafutures/blob/main/vue.png">
+<img src="https://github.com/acharyafutures/acharyafutures/blob/main/python.png">
+<img src="https://github.com/acharyafutures/acharyafutures/blob/main/djfl.jpeg">
+<img src="https://github.com/acharyafutures/acharyafutures/blob/main/c.png">
+<img src="https://github.com/acharyafutures/acharyafutures/blob/main/c++.png">
+<img src="https://github.com/acharyafutures/acharyafutures/blob/main/mysql.png">
+<img src="https://github.com/acharyafutures/acharyafutures/blob/main/php.png">
+<img src="https://github.com/acharyafutures/acharyafutures/blob/main/flutter.png">
+  <img src="https://github.com/acharyafutures/acharyafutures/blob/main/ps.png">
+<img src="https://github.com/acharyafutures/acharyafutures/blob/main/figma.png">
+<img src="https://github.com/acharyafutures/acharyafutures/blob/main/ill.png">
   </div>
  
 <div align="center"> Want to know more about me? Let's connect on:</div>
